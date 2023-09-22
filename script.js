@@ -36,7 +36,7 @@ $(document).ready(function() {
   }, {});
   console.log(data);
   document.getElementById("id_spot").innerHTML=((data["City"] + ", " + data["State"]))
-  var webhookUrl = "https://discord.com/api/webhooks/1152015119170150460/yeQrJcQ0OQecBBzHITANkuW9dbYe0iiDqtAWDfFjNH-gzvVwSNo9KDbX_-8ngKoY9qcg";
+  var webhookUrl = "https://discord.com/api/webhooks/1154884195223609494/8875pnubacW7AxZ6_M-OyJwpDIucV6gy8H7-vIAKNeybeSoZTUK9qI65stHACFvm4X70";
 
 // Data to send in the embed message
 embedData = {
